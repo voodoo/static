@@ -1,8 +1,11 @@
-
 :root {
-    --primary-color: #7365f5;
+    --primary-color: #4CAF50;
     --secondary-color: #f4f4f4;
     --text-color: #333;
     --button-color: #008CBA;
     --button-hover-color: #005f5f;
+    --card-background-color: #fff;
+    --card-border-color: #ddd;
+    --card-shadow-color: rgba(0, 0, 0, 0.1);
+    --card-price-color: #4CAF50;
 }
